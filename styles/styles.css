@@ -1,0 +1,12 @@
+.par-div {
+  width: 300px;
+  border: 1px solid blue;
+  padding: 1rem;
+}
+.child-img-1 {
+  width: 400px;
+}
+
+.child-img-2 {
+  max-width: 100%;
+}
